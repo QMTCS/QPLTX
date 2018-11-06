@@ -116,7 +116,7 @@ def init_notebook_mode(connected=True):
             'requirejs.config({'
             'paths: { '
             # Note we omit the extension .js because require will include it.
-            '\'plotly\': [\'https://raw.githubusercontent.com/Quantamatics/QPlot/master/plotly.min-2.0.15\']},'
+            '\'plotly\': [\'https://cdn.jsdelivr.net/gh/Quantamatics/QPlot/plotly.min-2.0.15\']},'
             '});'
             'if(!window.Plotly) {{'
             'require([\'plotly\'],'
