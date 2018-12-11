@@ -1,5 +1,5 @@
-# FWplot
-Finweavers Visualization package 
+# QPlit
+Quantamatics Visualization package (Plotly Port)
 
 ## Install
 
