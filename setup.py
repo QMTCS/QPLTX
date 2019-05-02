@@ -51,7 +51,7 @@ classifiers = ['Development Status :: 4 - Beta',
 install_reqs = [
     'ipython>=3.2.3',
     'numpy>=1.8.0',
-    'pandas>=0.18.0, <0.20.0',
+    'pandas==0.20.3',
     'scipy>=0.17.0',
     'configparser>=3.0.0',
     'python-dateutil>=2.6.0',
