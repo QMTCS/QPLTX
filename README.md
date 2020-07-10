@@ -1,4 +1,4 @@
-# QPlit
+# QPlot
 Quantamatics Visualization package (Plotly Port)
 
 ## Install
