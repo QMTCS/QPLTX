@@ -10,7 +10,7 @@ Quantamatics Visualization package (Plotly Port)
 ### run pip in Command Prompt
 
 ```sh
-pip install git+https://github.com/Quantamatics/QPlot
+pip install git+https://github.com/QMTCS/QPLTX
 ```
 
 Install Qplot after uninstalling plotly, please restart Jupyter. If it cannot work, please clear the cookie in Chrome(setting -> Advance -> Clear browsing data)
@@ -18,7 +18,7 @@ Install Qplot after uninstalling plotly, please restart Jupyter. If it cannot wo
 ## Reinstall
 
 ```sh
-pip install --upgrade --no-deps --force-reinstall git+https://github.com/Quantamatics/QPlot
+pip install --upgrade --no-deps --force-reinstall git+https://github.com/QMTCS/QPLTX
 ```
 
 ## Document
